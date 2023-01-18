@@ -1,0 +1,46 @@
+
+*{
+    color: blue;
+    font-weight: bold;
+}
+p,span{
+    color: black;
+    width:300px ;
+}
+/** esto es un comentario*/
+h1{
+    font-family: 'Moon Dance', cursive;
+    border: 1px solid black;
+    margin-top: 30px; 
+    margin-bottom:15px;
+    margin-left:10px;
+    margin-right:20px;
+    padding-top:30px;
+    padding-bottom:20px;
+    padding-left:10px;
+    padding-right:20px;
+    font-weight: bold;
+     color: red; 
+}
+section {
+    width: 300px;
+    border: 15px solid pink;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  #mi_parrafo {
+    color: purple;
+    font-size:23px;
+    border:2px solid darkcyan;
+
+  }
+  .estaesmiclase {
+    font-weight:bold;
+    color: brown;
+  }
+  
+  /**section h1 {
+    font-weight:200px;
+  }*/
+  
